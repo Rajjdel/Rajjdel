@@ -35,7 +35,7 @@
 <p align="center">
 
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML" height="25" src="images/html.svg"></code>
+  <code><img title="HTML" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
