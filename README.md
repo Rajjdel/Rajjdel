@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Alex...;A+Software+Engineer;Nice+to+meet+you+🙂!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Jennifer...;A+Software+Engineer;Nice+to+meet+you+🙂!&center=true&size=30">
   </a>
 </h1>
 
@@ -16,20 +16,20 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Alex, A Software Engineer
+  Hi, I'm Jennifer, A Software Engineer
   <br>
   <br>
   🔬 I'm currently studying at <a href="https://www.microverse.org/">MicroverseInc</a>
   <br>
   💻 I love to write lowlevel codes closer to the hardware, and enjoy writing graphics rendering codes.
   <br>
-  📚 I’m currently learning how to build 3D software applications for games and engineering simulations.
+  📚 I’m currently learning how to build software applications for games and engineering simulations.
   <br>
-  👨‍💻 I'm currently working on 3 awesome personal projects, <a href="https://github.com/harlexkhal/DreamRealm">DreamRealm, </a><a href="https://github.com/harlexkhal/CrunchMath">CrunchMath, </a>and <a href="https://github.com/harlexkhal/Pacman2D">Pacman2D, </a>
+  👨‍💻 I'm currently working on improving my web development skills
   <br>
   💬 Feel free to ask me any question <a href="https://github.com/harlexkhal/harlexkhal/issues" title="Issues">Here</a>
   <br>
-  📫 You can reach me on: <a>harlexibeh01@gmail.com</a>
+  📫 You can reach me on: <a>diojijennifer99@gmail.com</a>
 </p>
 
 <hr>
