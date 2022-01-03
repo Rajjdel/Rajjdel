@@ -71,7 +71,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/rajjdel/JENNY-S-RESORT" title="JENNY-S-RESORT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rajjdel&repo=JENNY-S-RESORT&theme=onedark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/rajjdel/rajjdel.github.io" title="my website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rajjdel&repo=my website&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/rajjdel/rajjdel" title="my website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rajjdel&repo=my website&theme=onedark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
  <div align=center>
